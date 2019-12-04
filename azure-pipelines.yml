@@ -50,6 +50,3 @@ steps:
     projects: '**/*.csproj'
     
     
-    trigger:
-- master
-
